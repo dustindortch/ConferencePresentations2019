@@ -13,7 +13,7 @@ Dustin Dortch
 
 Agenda:
 
-* Discuss what Azure AD
+* What is Azure AD?
 * Choosing an identity model
 * Azure AD Connect
 * ADFS
